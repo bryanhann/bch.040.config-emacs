@@ -1,3 +1,7 @@
+# Don't commit emacs autosaves.
+
+auto-save-list
+
 .venv
 __pycache__/
 *.py[cod]
