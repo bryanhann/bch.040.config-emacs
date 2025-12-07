@@ -8,6 +8,8 @@
 ;; Enable transient mark mode
 (transient-mark-mode 1)
 
+(load "~/.emacs.d/practice.el")
+
 ;;;;Org mode configuration
 ;; Enable Org mode
 (require 'org)
